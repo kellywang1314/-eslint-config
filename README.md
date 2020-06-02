@@ -1,4 +1,4 @@
-# @ctrip/eslint-config-travel
+# @ynan/eslint-config
 
 统一各项目的 eslint 规范，规范基于[eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy/blob/master/README.md)，项目内部会依赖所需要的 eslint 插件，无需单独安装 eslint 等插件。
 
@@ -7,7 +7,7 @@
 ### 安装
 
 ```bash
-npm install -D eslint-config
+npm install -D @ynan/eslint-config
 ```
 
 ### 配置
